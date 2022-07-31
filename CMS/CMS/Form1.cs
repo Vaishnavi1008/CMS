@@ -58,7 +58,7 @@ namespace CMS
             }
             else
             {
-                MessageBox.Show("Invalid user ID or password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Invalid user ID or PASSWORD!!!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
